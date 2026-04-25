@@ -1,4 +1,4 @@
-<img width="1021" height="657" alt="image" src="https://github.com/user-attachments/assets/48ed2384-f828-4485-a161-36503454adf9" /># 🩺 Diabetes Prediction ML Project
+# 🩺 Diabetes Prediction ML Project
 
 An end-to-end Machine Learning project to predict diabetes 
 using multiple classification algorithms.
